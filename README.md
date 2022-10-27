@@ -2,7 +2,7 @@
 
 Jeg la til GitHub brukeren min til PyCharm, og lagde et repository gjennom PyCharm.
 Deretter commitet jeg, og pushet oblig 2 filene mine til repositoriet. 
-Jeg gitt så til GitHub siden min, og fant det nye repositoriet. Trykket på "Actions", scrolla ned til "Continuous integration" og trykket configure på Python package.
+Jeg gikk så til GitHub siden min, og fant det nye repositoriet. Trykket på "Actions", scrolla ned til "Continuous integration" og trykket configure på Python package.
 Dette lagde en fil for meg, som jeg commita til repositoriet. 
 Nå har jeg filene fra oblig 2 og den nye .github mappa i repositoriet mitt. 
 
