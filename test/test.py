@@ -15,5 +15,3 @@ def test_if_not_divisible_by_4_not_leap_year():
 
 def test_if_divisible_by_100_but_not_400_is_leap_year():
     assert not isLeapYear(1900)
-
-#Change to upload
